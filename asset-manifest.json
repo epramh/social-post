@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/epramh/social-post-CRA/static/css/main.4d8b4057.css",
+    "main.js": "/epramh/social-post-CRA/static/js/main.2db26ca7.js",
+    "static/js/453.29b87520.chunk.js": "/epramh/social-post-CRA/static/js/453.29b87520.chunk.js",
+    "index.html": "/epramh/social-post-CRA/index.html",
+    "main.4d8b4057.css.map": "/epramh/social-post-CRA/static/css/main.4d8b4057.css.map",
+    "main.2db26ca7.js.map": "/epramh/social-post-CRA/static/js/main.2db26ca7.js.map",
+    "453.29b87520.chunk.js.map": "/epramh/social-post-CRA/static/js/453.29b87520.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8b4057.css",
+    "static/js/main.2db26ca7.js"
+  ]
+}
