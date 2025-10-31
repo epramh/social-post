@@ -15,7 +15,7 @@ export default function LikeButton() {
           <img src={emptyHeartImage} alt="Empty heart for like button" />
         )}
       </div>
-      <p>{likes == 1 ? `  ${likes} Like` : `${likes} Likes`}</p>
+      <p>{likes === 1 ? `  ${likes} Like` : `${likes} Likes`}</p>
     </div>
   );
 }
