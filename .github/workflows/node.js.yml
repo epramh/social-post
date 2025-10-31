@@ -13,6 +13,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # 👇 ADD THIS 'permissions' BLOCK HERE TO FIX THE 403 ERROR
+    permissions:
+      contents: write # This grants the necessary write permission for the GITHUB_TOKEN
+
     strategy:
       matrix:
         node-version: [22.x]
