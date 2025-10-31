@@ -8,8 +8,7 @@ export default function FollowButton() {
       className={following ? "following" : "not-following"}
       onClick={() => setFollowing(!following)}
     >
-      {following == true ? "Following" : "Follow"}
+      {following === true ? "Following" : "Follow"}
     </div>
   );
 }
-
