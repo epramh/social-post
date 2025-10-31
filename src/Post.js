@@ -8,13 +8,12 @@ export default function Post() {
   return (
     <div className="post">
       <div className="user-info">
-        <img id="profile-img" src={userImage} alt="Profile Image" />
+        <img id="profile-img" src={userImage} alt="Sary Profile no eto" />
         <p>Hipthehippocorn</p>
         <FollowButton />
       </div>
-      <img id="post-img" src={postImage} alt="Post Image" />
+      <img id="post-img" src={postImage} alt="Sary Post no eto" />
       <LikeButton />
     </div>
   );
 }
-
