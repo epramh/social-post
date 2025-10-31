@@ -33,6 +33,7 @@ export default function App() {
         /* Post component here 💖*/
         <Post />
       }
+      <div>This is my post</div>
     </div>
   );
 }
